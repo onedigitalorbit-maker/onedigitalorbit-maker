@@ -1,4 +1,6 @@
 ## Hi there 👋
+I am Riddhi Sharma
+Founder of "One Digital Orbit, a Digital Marketing Agency in India.
 
 <!--
 **onedigitalorbit-maker/onedigitalorbit-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
